@@ -1,0 +1,8 @@
+{
+  "background_color": "white",
+  "description": "Jogo da Memória",
+  "display": "standalone",
+  "name": "Jogo da Memória",
+  "short_name": "Jogo da Memória",
+  "start_url": "http://3.19.194.42/jogodamemoria/"
+}
